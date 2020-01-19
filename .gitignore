@@ -59,5 +59,6 @@ target/
 # data
 data/
 out/
+instance/
 .DS_store
 
